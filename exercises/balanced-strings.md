@@ -26,3 +26,8 @@ Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to compl
 
 ## Answer
 
+1) The partitions identified are balanced string, unbalanced string and empty string leading to this set of input :
+
+`"{[()]}"`, `"{([)]}"`,  `""`
+
+2) 
