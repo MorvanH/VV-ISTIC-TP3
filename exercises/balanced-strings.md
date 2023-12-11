@@ -85,4 +85,4 @@ We used Combinatorial Coverage to have this :
 
         Mutation Coverage  : 100% 
 
-The score is high enough, no need to add tests (last line to cover is l.5 'public class StringUtils')
+The score is high enough, no need to add tests (last line to cover is only l.5 'public class StringUtils')
